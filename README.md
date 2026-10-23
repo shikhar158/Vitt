@@ -108,4 +108,3 @@ All customers are synthetic. Results do not describe real Indian customer behavi
 ## Upload to GitHub
 
 Create a repository named `Vitt-Financial-Analytics` and upload the contents of this folder, keeping the folders intact. The README will appear on the repository home page. Download the PBIX and open it in Power BI Desktop to explore the dashboard. GitHub does not display the interactive Power BI report.
-

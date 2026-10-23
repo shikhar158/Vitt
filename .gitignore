@@ -1,0 +1,21 @@
+# Python and Jupyter temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local settings and credentials
+.vscode/
+.env
+.env.*
+
+# Power BI build and local cache files
+.vitt-build/
+.pbi/
+*.pbix.lock
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
