@@ -105,6 +105,3 @@ The notebook checks input dimensions, unique IDs, valid values, scoring bounds, 
 
 All customers are synthetic. Results do not describe real Indian customer behavior. Scoring weights, allocations, and reserve targets are unvalidated assumptions. Stress tests are monthly snapshots without behavioral changes or savings depletion. Some correlations result directly from shared formula inputs.
 
-## Upload to GitHub
-
-Create a repository named `Vitt-Financial-Analytics` and upload the contents of this folder, keeping the folders intact. The README will appear on the repository home page. Download the PBIX and open it in Power BI Desktop to explore the dashboard. GitHub does not display the interactive Power BI report.
